@@ -1,0 +1,59 @@
+Requirements-386 recommended but not required. Only 256K of RAM. 
+2 Megabytes of hard disk space. 256 Color VGA monitor.
+
+BASICS- Dark Visions II is pretty self-explanatory. At the top of the screen
+is a box in which you will be told about whatever your cursor is on, whether
+it's part of the scene or part of the controls. There is no need to click 
+to get this description. You should explore the screen this way to find out 
+what the buttons do. For keyboard play--use the numeric keypad to move the 
+cursor, <enter> to click, and <space> to switch cursors; for joystick play--
+the pad will move the cursor, Button A will click, and Button B will switch 
+cursors. With the mouse--you can move the cursor. Click a mouse button to 
+click. 
+
+HINTS- Clicking will activate the cursor selected in the lower left. Clicking 
+action on roads, doors, or right behind your character will often let you 
+walk to another scene. Game time does matter, and if you hear a bump, that 
+prewarns you that someone's near! If you ever miss a message, hitting 
+<r> will recall the last message. 
+<1,2,3> are used to talk
+If Dark Visions II appears too light, you may want to turn down the brightness
+on your monitor.
+
+Type: "START" at the DOS prompt to start.
+
+                           DV2 Hint Giver
+Type: "DVHINT" at the DOS prompt if you are stuck and need a nudge in what
+might be the right direction. This is provided so you can play the entire
+game instead of most adventures where players get stuck 1/4th of the way 
+through. It was not meant to play the game for you, so use it sparingly.
+
+                       Dark Visions 1 Plot Summary
+        The time period is the early nineteen hundreds. You arrive at the 
+mansion of your uncle, Dr. Maller, and are told by a person whom you 
+assume to be a servant that there is a party in progress in his honor. 
+You go to the upstairs guest room to get ready, but when you leave you 
+find that your uncle's psychiatric patients are on the loose...and trying
+to kill you! They've already done away with your uncle and his doctors. In
+a further revelation, you find that he's been testing a zombie serum on
+his psychos; the serum stops the body from functioning for 12 hours. And 
+when they awake, they have heightened strength! You manage to send the house 
+up in flames before making your escape out a window and getting into your
+car. Dark Visions II picks up here.
+
+(Don't let the message "You Win" trick you. There is more than one ending to 
+Dark Visions II. You will know when you get the best one. If you don't get 
+the best ending, you should load up your furthest saved game and keep playing
+until you do.)
+
+PROBLEMS RUNNING DARK VISIONS II
+The only problem we've ever encountered in Dark Visions II is the
+crazy cursor- type <j> in the game to turn the joystick off if you encounter 
+this.
+----------------------------------------------------------------------------
+You may distribute Dark Visions II as much as you wish to anyone you
+wish, provided that- 
+1 All the files are included, and they are not altered in anyway.
+2 No fee is charged (Companies or Organizations may charge a distribution fee 
+to cover expenses, as long as it is no greater than $8. Hopefully the fee
+will be significantly less than that.)
